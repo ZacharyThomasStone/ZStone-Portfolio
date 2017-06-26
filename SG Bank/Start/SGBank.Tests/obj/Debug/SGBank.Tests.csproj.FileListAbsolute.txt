@@ -1,0 +1,14 @@
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.Tests\bin\Debug\SGBank.Tests.dll.config
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.Tests\bin\Debug\SGBank.Tests.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.Tests\bin\Debug\SGBank.Tests.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.Tests\bin\Debug\nunit.framework.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.Tests\bin\Debug\SGBank.BLL.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.Tests\bin\Debug\SGBank.Data.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.Tests\bin\Debug\SGBank.Models.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.Tests\bin\Debug\SGBank.BLL.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.Tests\bin\Debug\SGBank.Data.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.Tests\bin\Debug\SGBank.Models.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.Tests\bin\Debug\nunit.framework.xml
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.Tests\obj\Debug\SGBank.Tests.csprojResolveAssemblyReference.cache
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.Tests\obj\Debug\SGBank.Tests.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.Tests\obj\Debug\SGBank.Tests.pdb

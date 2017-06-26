@@ -1,0 +1,12 @@
+C:\Users\Public\Documents\SGBitbucket\january2016dotnetakronmaterials\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\Public\Documents\SGBitbucket\january2016dotnetakronmaterials\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\Public\Documents\SGBitbucket\january2016dotnetakronmaterials\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\Public\Documents\SGBitbucket\january2016dotnetakronmaterials\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\SGBitbucket\january2016dotnetakronmaterials\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\Public\Documents\SGBitbucket\january2016dotnetakronmaterials\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work\GuessingGame\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work\GuessingGame\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work\GuessingGame\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work\GuessingGame\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work\GuessingGame\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work\GuessingGame\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache

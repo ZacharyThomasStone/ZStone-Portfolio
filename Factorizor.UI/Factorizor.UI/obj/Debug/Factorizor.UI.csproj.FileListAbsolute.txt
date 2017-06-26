@@ -1,0 +1,12 @@
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work\Factorizor.UI\Factorizor.UI\bin\Debug\Factorizor.UI.exe.config
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work\Factorizor.UI\Factorizor.UI\bin\Debug\Factorizor.UI.exe
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work\Factorizor.UI\Factorizor.UI\bin\Debug\Factorizor.UI.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work\Factorizor.UI\Factorizor.UI\obj\Debug\Factorizor.UI.csprojResolveAssemblyReference.cache
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work\Factorizor.UI\Factorizor.UI\obj\Debug\Factorizor.UI.exe
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work\Factorizor.UI\Factorizor.UI\obj\Debug\Factorizor.UI.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\Factorizor.UI\Factorizor.UI\bin\Debug\Factorizor.UI.exe.config
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\Factorizor.UI\Factorizor.UI\bin\Debug\Factorizor.UI.exe
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\Factorizor.UI\Factorizor.UI\bin\Debug\Factorizor.UI.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\Factorizor.UI\Factorizor.UI\obj\Debug\Factorizor.UI.csprojResolveAssemblyReference.cache
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\Factorizor.UI\Factorizor.UI\obj\Debug\Factorizor.UI.exe
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\Factorizor.UI\Factorizor.UI\obj\Debug\Factorizor.UI.pdb

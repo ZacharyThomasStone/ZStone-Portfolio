@@ -1,0 +1,9 @@
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.BLL\bin\Debug\SGBank.BLL.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.BLL\bin\Debug\SGBank.BLL.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.BLL\bin\Debug\SGBank.Data.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.BLL\bin\Debug\SGBank.Models.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.BLL\bin\Debug\SGBank.Data.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.BLL\bin\Debug\SGBank.Models.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.BLL\obj\Debug\SGBank.BLL.csprojResolveAssemblyReference.cache
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.BLL\obj\Debug\SGBank.BLL.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\Start\SGBank.BLL\obj\Debug\SGBank.BLL.pdb

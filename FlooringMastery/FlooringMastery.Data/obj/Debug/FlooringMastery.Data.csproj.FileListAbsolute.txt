@@ -1,0 +1,9 @@
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery.Data\bin\Debug\FlooringMastery.Data.dll.config
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery.Data\bin\Debug\FlooringMastery.Data.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery.Data\bin\Debug\FlooringMastery.Data.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery.Data\bin\Debug\FlooringMastery.Models.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery.Data\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery.Data\obj\Debug\FlooringMastery.Data.csprojResolveAssemblyReference.cache
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery.Data\obj\Debug\FlooringMastery.Data.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery.Data\obj\Debug\FlooringMastery.Data.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery.Data\bin\Debug\FlooringMastery.Models.dll.config

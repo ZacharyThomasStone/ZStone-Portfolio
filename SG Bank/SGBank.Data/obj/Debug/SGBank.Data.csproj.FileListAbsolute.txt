@@ -1,0 +1,7 @@
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\SGBank.Data\bin\Debug\SGBank.Data.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\SGBank.Data\bin\Debug\SGBank.Data.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\SGBank.Data\bin\Debug\SGBank.Models.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\SGBank.Data\bin\Debug\SGBank.Models.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\SGBank.Data\obj\Debug\SGBank.Data.csprojResolveAssemblyReference.cache
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\SGBank.Data\obj\Debug\SGBank.Data.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\SGBank.Data\obj\Debug\SGBank.Data.pdb

@@ -1,0 +1,6 @@
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll.config
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csprojResolveAssemblyReference.cache

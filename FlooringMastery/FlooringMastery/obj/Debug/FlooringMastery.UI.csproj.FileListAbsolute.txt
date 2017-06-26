@@ -1,0 +1,15 @@
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.exe.config
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.exe
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.UI.csprojResolveAssemblyReference.cache
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.exe
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery\bin\Debug\FlooringMaster.BLL.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.Models.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery\bin\Debug\FlooringMaster.BLL.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.Data.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.Data.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery\bin\Debug\FlooringMaster.BLL.dll.config
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.Models.dll.config
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\FlooringMastery\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.Data.dll.config

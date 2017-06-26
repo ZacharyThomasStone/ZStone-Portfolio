@@ -1,0 +1,12 @@
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\SGBank.UI\bin\Debug\SGBank.UI.exe.config
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\SGBank.UI\bin\Debug\SGBank.UI.exe
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\SGBank.UI\bin\Debug\SGBank.UI.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\SGBank.UI\bin\Debug\SGBank.BLL.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\SGBank.UI\bin\Debug\SGBank.Models.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\SGBank.UI\bin\Debug\SGBank.Data.dll
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\SGBank.UI\bin\Debug\SGBank.BLL.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\SGBank.UI\bin\Debug\SGBank.Models.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\SGBank.UI\bin\Debug\SGBank.Data.pdb
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\SGBank.UI\obj\Debug\SGBank.UI.csprojResolveAssemblyReference.cache
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\SGBank.UI\obj\Debug\SGBank.UI.exe
+C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\SG Bank\SGBank.UI\obj\Debug\SGBank.UI.pdb
