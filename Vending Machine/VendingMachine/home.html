@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Vending Machine</title>
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+</head>
+<style>
+    #pageHeader {
+        text-align: center;
+        font-weight: bold;
+        font-family: Courier New, Courier, monospace;
+    }
+
+    #rowOne {
+        background-color: white;
+        width: 17vw;
+        height: 17vw;
+        border: 4px solid black;
+        padding: 15px;
+        margin: 28px;
+    }
+    #name,
+    #price,
+    #quantity {
+        text-align: center;
+    }
+
+    #add-dollar-button, #add-quarter-button, #add-dime-button, #add-nickel-button{
+        margin: 5px;
+        width:100px;
+    }
+    #make-purchase-button,#change-return-button{
+        margin: 10px 0px;
+    }
+    
+    #moneyIntake {
+        background-color: white;
+        width: 90px;
+        height: 30px;
+        border: 4px solid black;
+    }
+
+    #itemView {
+        background-color: white;
+        width: 90px;
+        height: 30px;
+        border: 4px solid black;
+    }
+
+    #changeView {
+        background-color: white;
+        width: 90px;
+        height: 30px;
+        border: 4px solid black;
+    }
+    #totalIn{
+        width: 212px;
+        height:35px;
+        margin:5px;
+    }
+    #moneyIn {
+        text-align: right;
+    }
+    #messages{
+        margin-bottom: 10px;
+    }
+    #itemId{
+        width: 75px;
+    }
+    #messageOutput {
+        background-color: white;
+        width: 150px;
+        height: 30px;
+        border: 4px solid black;
+    }
+
+    #floating {
+        display: initial;
+    }
+
+    h2 {
+        font-family: Courier New, Courier, monospace;
+    }
+</style>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12" id="pageHeader">
+                <h1>Vending Machine</h1>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div id="contentRows1"></div>
+            <form>
+
+                <h2>Total $ In</h2>
+                <input type="text" id="totalIn" disabled><br>
+
+                <button type="button" id="add-dollar-button" class="btn btn-default">
+                            Add Dollar
+                    </button>
+                <button type="button" id="add-quarter-button" class="btn btn-default">
+                            Add Quarter
+                    </button><br>
+                <button type="button" id="add-dime-button" class="btn btn-default">
+                            Add Dime
+                    </button>
+                <button type="button" id="add-nickel-button" class="btn btn-default">
+                            Add Nickel
+                    </button>
+            </form>
+        </div>
+        <div class="row">
+            <div id="contentRows2"></div>
+                <div class="col-md-3">
+                    <hr>
+                    <form>
+                        <h2>Messages</h2>
+                        <input type="text" id="messages" disabled><br>
+                        <div style="text-align: center; width:180px;"><h4 id="floating">Item:</h4>
+                        <input type="text" id="itemId"><br>
+                        <button type="button" id="make-purchase-button" class="btn btn-default">
+                            Make Purchase
+                    </button></div>
+                    </form>
+                </div>
+             </div>
+      
+        <div class="row">
+            <div id="contentRows3"></div>
+                <div class="col-md-3">
+                    <hr>
+                    <form>
+                        <h2>Change</h2>
+                        <input type="text" id="change" disabled>
+                        <button type="button" id="change-return-button" class="btn btn-default">
+                            Change Return
+                    </button>
+                    </form>
+                </div>
+        </div>
+    </div>
+    <script src="js/jquery-2.2.4.min.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/home.js"></script>
+</body>
+</html>
