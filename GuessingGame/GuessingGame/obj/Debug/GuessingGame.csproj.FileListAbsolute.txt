@@ -16,3 +16,10 @@ C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\GuessingGame\Gu
 C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
 C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
 C:\Users\zacha\OneDrive\Documents\zachary-stone-individual-work2\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
+C:\Code\Software Guild Portfolio\ZStone-Portfolio\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Code\Software Guild Portfolio\ZStone-Portfolio\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Code\Software Guild Portfolio\ZStone-Portfolio\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Code\Software Guild Portfolio\ZStone-Portfolio\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csprojAssemblyReference.cache
+C:\Code\Software Guild Portfolio\ZStone-Portfolio\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Code\Software Guild Portfolio\ZStone-Portfolio\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Code\Software Guild Portfolio\ZStone-Portfolio\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
