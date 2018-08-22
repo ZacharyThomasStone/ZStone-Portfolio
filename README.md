@@ -2,7 +2,7 @@
 A portfolio of my works from the 2017 online .NET/C# Software Guild Cohort. 
 I am slowly going through and refactoring code as I continue to grow as a developer. 
 
-## Guessing Game :mag::question:
+## Guessing Game :mag::grey_question:
 This is a simple Console application that was assigned at the beggining of the course. 
 This was to showcase conditional loops and general types like ints, booleans, and strings. 
 
